@@ -64,10 +64,10 @@ class StudentClass implements Student  {
     };
 
     workOnHomework() {
-        return ("Currently working")
+        return ("Currently working");
     }
     displayName() {
-        return this.firstName
+        return this.firstName;
     }
 }
 
